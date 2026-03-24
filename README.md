@@ -1,6 +1,6 @@
 # Phantom Noise for Firefox
 
-> **This is a Firefox port of [Phantom Noise](https://github.com/soufianetahiri/phantom-noise), originally built for Chrome. All core functionality is identical — only the browser API layer and manifest format have been adapted.**
+> **This is a Firefox port of [Phantom Noise](https://github.com/soufianetahiri/phantom-noise), originally built for Chrome. All core functionality is identical — only the browser API layer and manifest format have been adapted. Credits to **soufianetahiri** for the original idea. Let'em eat spam!**
 
 **Privacy-enhancing decoy traffic generator for Firefox.**
 
